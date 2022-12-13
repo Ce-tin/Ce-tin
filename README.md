@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ce-tin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+..interested in programming
+..currently learning C#
 
+##Testing changes with Visual Code Studio and GitHub
